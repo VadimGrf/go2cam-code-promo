@@ -1,0 +1,74 @@
+/*colors and fonts*/
+body {
+	background-color: rgb(230,230,230);
+	color: #030027;
+	font-family:'David Libre', serif;
+	font-size: 16px; 
+}
+
+h1 {
+	color: #878472;
+	font-family:'Roboto', sans-serif;
+	font-weight: 900;
+	letter-spacing: 3px;
+	font-size: 30px;
+	text-align: center;
+}
+
+h2 {
+	color: #EA2B1F;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	font-weight: 300;
+	text-align: center;
+}
+
+h3 {
+	color: black;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	text-align: center;
+}
+
+a {
+	font-family:'Roboto', sans-serif;
+	text-decoration: none;
+	color: blue;
+	font-weight: 600;
+	font-size: 16px;
+	text-align: center;
+}
+a:hover {
+	color: black;
+}
+
+p {
+	text-align: center;
+}
+
+img {
+	text-align: center;
+}
+.logo {
+	width: 200px;
+	border-radius: 20%;
+	text-align: center;
+}
+.about {
+	text-align: center; 
+	background-color: white;
+	padding: 50px 70px;
+	border-radius: 15px;
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	margin-bottom: 10px;
+}
+
+.general {
+	width: 70%;
+	margin: 80px auto;
+}
+
+#partie1 {
+	font-size: 20px;
+}
